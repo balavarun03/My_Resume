@@ -1,0 +1,25 @@
+.balavarun { 
+    display: inline-block;
+}
+.profileimage {
+    float: right;
+    padding-top: 5%;
+}
+.bala {
+    color: blue;
+    text-decoration: underline;
+    font-weight: bold;
+}
+#name, #maa, #me, #a, .a {
+    font-weight: bold;
+}
+#a, .a {
+    text-decoration: underline;
+}
+.varun {
+    border-width: 1px;
+    border-color: black;
+}
+.line {
+    line-height: 0.5;
+}
